@@ -1,3 +1,3 @@
 n = int(input("enter a number ->"))
 
-print(n**n)
+print(n*n)
